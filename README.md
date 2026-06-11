@@ -1,10 +1,10 @@
 # Currículo Online — DS881
 
-[CI/CD](https://github.com/SEU_USUARIO/ds881-curriculo-GRR99999999/actions/workflows/main.yml/badge.svg)
+![CI/CD](https://github.com/vineaugustus/ds881-curriculo-GRR20187216/actions/workflows/main.yml/badge.svg)
 
 ## 🔗 Site em produção
 
-[Acesse o currículo aqui](https://SEU_USUARIO.github.io/ds881-curriculo-GRR99999999/)
+[Acesse o currículo aqui](https://vineaugustus.github.io/ds881-curriculo-GRR20187216/)
 
 ---
 
@@ -18,15 +18,14 @@
 
 1. Clone o repositório:
 ```bash
-   git clone
+   git clone https://github.com/vineaugustus/ds881-curriculo-GRR20187216.git
+   cd ds881-curriculo-GRR20187216
 ```
 
 2. Suba o container:
 ```bash
    docker compose up
 ```
-
-3. Acesse no navegador: http://localhost:8080
 
 4. Para parar o container:
 ```bash
